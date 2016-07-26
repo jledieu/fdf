@@ -8,3 +8,4 @@ Pour lancer le programme :
 Bonus :
 - Se deplacer (fleches directionnelles)
 - Zoom (- / +)
+- Quitter (esc)
