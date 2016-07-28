@@ -11,4 +11,5 @@ Pour lancer le programme :
 Bonus :
 - Se deplacer (fleches directionnelles)
 - Zoom (- / +)
+- Altitude (page up / page down)
 - Quitter (esc)
